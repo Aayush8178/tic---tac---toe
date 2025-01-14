@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #FBAB7E;
+    background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+}
+.optionbutton{
+    width:40vmin;
+    height: 15vmin;
+    background-color: #e3824a;
+    color: rgb(157, 50, 0);
+    font-size: 2rem;
+    box-shadow: rgba(0, 0, 0, 0.612);
+    border-radius: 6%;
+    margin: 0 45%;
+
+    
+}
+.heading{
+    text-align: center;
+    color: #4B0082;
+    font-size: 2.5rem;
+    margin: 2%;
+    text-decoration: underline;
+}
+.optionheading{
+    text-align: center;
+    color: #4B0082;
+    font-size: 2rem;
+    margin: 4%;
+}
+/* .option{
+    width: 4vmin;
+    height: 9vmin;
+    background-color: #e3824a;
+    color: rgb(110, 0, 0);
+    font-size: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.612);
+    border-radius: 4%;
+    margin: 0 45%;
+}  */
